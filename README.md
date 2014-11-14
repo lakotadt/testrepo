@@ -1,4 +1,4 @@
 testrepo
 ========
 
-first repo
+first repo for testing
